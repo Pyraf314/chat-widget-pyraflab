@@ -546,7 +546,7 @@
             responseTimeText: '',
             poweredBy: {
                 text: 'SmartBot réalisé par 369Lab',
-                link: 'hhttps://369lab.click'
+                link: 'https://369lab.click'
             }
         },
         style: {
