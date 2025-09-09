@@ -635,8 +635,7 @@
             <div class="chat-controls">
                 <textarea class="chat-textarea" placeholder="Tapez votre message ici..." rows="1"></textarea>
                 <button class="chat-submit">
-                    <svg xmlns="https://www.google.com/
-https://www.iconpacks.net/icons/2/free-send-icon-4008-thumb.png" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M22 2L11 13"></path>
                         <path d="M22 2l-7 20-4-9-9-4 20-7z"></path>
                     </svg>
@@ -982,4 +981,5 @@ https://www.iconpacks.net/icons/2/free-send-icon-4008-thumb.png" viewBox="0 0 24
         });
     });
 })();
+
 
